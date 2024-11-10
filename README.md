@@ -4,7 +4,7 @@ Formula collections from the electrical engineering course specializing in autom
 
 ## notation rule for file naming in the repository
 
-example:
+example: 05_Physik_2.pdf
 
 | **document number** | **document name** | **semester number** | **file extension** |
 |--------------------|-------------------|--------------------|-----------------|
@@ -12,7 +12,7 @@ example:
 
 ## Notationsregel für die Dateibenennung im Repository
 
-example:
+Beispiel: 05_Physik_2.pdf
 
 | **Dokumentnummer** | **Dokumentname** | **Semesternummer** | **Dateiendung** |
 |--------------------|-------------------|--------------------|-----------------|
