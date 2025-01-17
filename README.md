@@ -1,5 +1,5 @@
 # formula-collection
-Formula collections from the electrical engineering course specializing in automation at the DHBW
+Formula collections from the bachelor electrical engineering course specializing in automation at the DHBW
 
 
 ## notation rule for file naming in the repository
